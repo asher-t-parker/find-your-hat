@@ -1,5 +1,5 @@
 # Find Your Hat
-*A terminal game*
+*A game for node.js*
 
 ## Description
 Find your hat accepts user commands in the form of cardinal directions 
