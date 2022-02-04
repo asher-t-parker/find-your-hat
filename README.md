@@ -12,3 +12,9 @@ randomly placed holes in order to find their hat '^'.
 
 ## Modules
 * prompt-sync
+
+## To-Do
+
+* Clean up code and variable names
+* Add path checker to ensure all randomly generated fields are solvable
+* Update graphics with terminal-kit
